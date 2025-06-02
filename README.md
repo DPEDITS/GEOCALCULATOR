@@ -1,33 +1,45 @@
-🪨 Geologist Calculator
-A powerful and easy-to-use tool designed for geologists, students, and earth science professionals to perform common geological calculations efficiently.
+# 🪨 Geologist Calculator
 
-🌍 Features
-🧮 Rock Density Calculator
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with ❤️ by Geologists](https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20Geologists-blue)](#)
 
-🧭 Strike and Dip Calculator
+A powerful, open-source calculator designed specifically for geologists, geology students, and earth science professionals. Perform essential geological computations in one place with accuracy and ease.
 
-🧱 Porosity and Permeability Estimator
+---
 
-📏 Grain Size and Sediment Analysis
+## 🌟 Features
 
-🧊 Volume and Mass of Geological Formations
+- 📐 Strike & Dip Calculator  
+- 🧱 Rock Density & Porosity Calculator  
+- ⛏️ Grain Size & Sediment Analysis  
+- 🧪 Mineral Composition Estimator  
+- 🧊 Volume & Mass of Rock Formations  
+- 🌍 Geological Time Scale Reference  
+- 📏 Unit Converter (Length, Mass, Volume)
 
-🧪 Mineral Composition Estimator
+---
 
-📐 Angle and Distance Conversions
+## 🚀 Getting Started
 
-🚀 Getting Started
-Prerequisites
-Depending on your platform:
+### 🧰 Prerequisites
 
-For Web Version:
-Node.js and npm
+> Depends on your stack — choose accordingly.
 
-React or your preferred framework
+#### For Web App:
+- Node.js
+- npm / yarn
 
-For Desktop Version:
-Python 3.x
+#### For Python GUI/Desktop:
+- Python 3.x
+- `tkinter`, `numpy`, `matplotlib`, etc.
 
-Tkinter or PyQt (if GUI)
+---
 
-Required libraries (listed in requirements.txt)
+### 📦 Installation
+
+#### Web (React Example)
+```bash
+git clone https://github.com/yourusername/geologist-calculator.git
+cd geologist-calculator
+npm install
+npm start
