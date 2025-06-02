@@ -1,7 +1,7 @@
 # 🪨 Geologist Calculator
 
 [![License: APACHE](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Made with ❤️ by Debashish Parida](https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20Geologists-blue)](#)
+[![Made with ❤️ by Debashish Parida](https://img.shields.io/badge/Made%20with-%F0%9F%92%9C%20by%20DEBASHISH%20PARIDA-blue)](#)
 
 A powerful, open-source calculator designed specifically for geologists, geology students, and earth science professionals. Perform essential geological computations in one place with accuracy and ease.
 
